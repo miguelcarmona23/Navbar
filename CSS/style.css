@@ -75,3 +75,7 @@ li.logo {
     font-weight: 600;
     font-size: 30px;
 }
+
+li.logo a {
+    color: black;
+}
