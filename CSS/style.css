@@ -66,3 +66,12 @@ nav li {
     justify-content: center;
     align-items: center;
 }
+
+li.logo {
+    max-width: 0;
+    overflow: hidden;
+    background: white;
+    transition: all .5s;
+    font-weight: 600;
+    font-size: 30px;
+}
